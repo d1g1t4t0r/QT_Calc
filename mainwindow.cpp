@@ -3,7 +3,8 @@
 
 static int count_numbers = 0;
 static int aft_float = 0;
-double operand; //возможно, стоит сделать статик
+double operand;
+//идите в жопу
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
