@@ -4,7 +4,7 @@
 static int count_numbers = 0;
 static int aft_float = 0;
 double operand;
-//идите в жопу -> не пойду
+//пробую коммитить через сам QT
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
